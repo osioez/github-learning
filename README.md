@@ -1,2 +1,2 @@
-# github-learning
-Esto es una prueba empezando, el trabajo con repositorios
+# Github-learning (LInkedin)
+Esto es una prueba empezando, el trabajo con repositorios.
